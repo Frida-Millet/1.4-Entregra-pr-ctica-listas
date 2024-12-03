@@ -1,0 +1,14 @@
+
+
+ol.num_romanos {
+    list-style-type: upper-roman;
+    
+}
+
+ul.circulo{
+    list-style-type:circle ;
+    
+}
+ol.letras {
+    list-style-type: lower-latin;
+}
